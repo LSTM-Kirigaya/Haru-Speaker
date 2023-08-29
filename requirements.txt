@@ -1,0 +1,15 @@
+Cython
+librosa
+matplotlib
+numpy
+phonemizer
+scipy
+pyyaml
+tensorboard
+Unidecode
+ffmpeg
+jamo
+cn2an
+gradio
+pypinyin
+jieba
